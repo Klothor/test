@@ -1,1 +1,2 @@
 New text in file 1 hehehue
+Line for feature 3
