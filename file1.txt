@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-New text in file 1 hehehue
+New text in file 1 hehehuefix1
+
 Line for feature 3
 =======
 New text in file 1 hehehuefix1
