@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 New text in file 1 hehehue
 Line for feature 3
+=======
+New text in file 1 hehehuefix1
+>>>>>>> 1885a29... Added fix1
